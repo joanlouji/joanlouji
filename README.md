@@ -16,10 +16,6 @@
 
 
    
-
-<a href="https://github.com/sjlouji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanlouji&theme=light" />
-</a>
 <a href="https://github.com/sjlouji">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanlouji&show_icons=true&theme=light&line_height=27" alt="Joan Louji's github stats"/>
 </a>
